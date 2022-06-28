@@ -7,6 +7,7 @@ manifest:
       repo-path: sdk-nrf
       remote: ncs
       revision: v1.9.1
-      import: true
+      import: 
+        path-prefix: ncs_dependencies
   self:
     path: hello_world

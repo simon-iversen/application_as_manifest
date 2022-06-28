@@ -1,5 +1,5 @@
 [manifest]
-path = ../hello_world
+path = hello_world
 file = west.yml
 
 [zephyr]
