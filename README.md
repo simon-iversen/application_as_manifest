@@ -1,5 +1,5 @@
-Application as Manifeset
-###########
+
+# Application as Manifest
 
 Copy github link and download using e.g. West:
 
